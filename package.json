@@ -1,0 +1,19 @@
+{
+  "name": "latitude-longitude",
+  "version": "1.0.0",
+  "description": "",
+  "main": "ex1.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.27.2",
+    "dotenv": "^16.0.0",
+    "kleur": "^4.1.4",
+    "prompt-sync": "^4.2.0",
+    "prompts": "^2.4.2",
+    "readline-sync": "^1.4.10"
+  }
+}
